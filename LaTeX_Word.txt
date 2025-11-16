@@ -10,3 +10,4 @@
 Sample:
 \frac{1}{\sqrt x}
 \left(\frac{1}{\sqrt{x}}\right)
+E_n^{\mathrm{off}}=\sum_{k\in K}{p_n^kT_n^{\mathrm{off}}}

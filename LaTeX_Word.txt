@@ -8,5 +8,5 @@
 
 
 Sample:
-
+\frac{1}{\sqrt x}
 \left(\frac{1}{\sqrt{x}}\right)
